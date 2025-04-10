@@ -1,0 +1,855 @@
+[
+    {
+      "id": 1,
+      "E_code": "E200",
+      "name": "Sorbic acid",
+      "category": "Preservatives",
+      "description": "Sorbic acid (E200) is a preservative of natural origin, initially isolated from rowan berries but today obtained almost exclusively by chemical synthesis starting from crotonaldehyde and malonic ketone; it is authorised throughout Europe and widely used.",
+      "usage_cases": "It is mainly used in industrial foods such as baked goods, cheeses, sauces, carbonated drinks and preserves, but it is also present in some cosmetics and pharmaceutical products to prevent the growth of mold, yeast and fungi.",
+      "is_class": true,
+      "classification": {
+        "classified": 1
+      }
+    },
+    {
+        "id": 2,
+        "E_code": "E201",
+        "name": "Sodium sorbate",
+        "category": "Preservatives",
+        "description": "Sodium sorbate is the sodium salt of sorbic acid, produced synthetically by the reaction of sorbic acid and sodium hydroxide; it is considered safe and authorised in almost all of Europe as a food preservative.",
+        "usage_cases": "It is mainly used in foods such as margarine, cheese, yogurt, packaged bread, soft drinks and baked goods to inhibit the growth of mold and yeast, but may also be present in some cosmetics and mouthwashes for the same antimicrobial purpose.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 3,
+        "E_code": "E202",
+        "name": "Potassium sorbate",
+        "category": "Preservatives",
+        "description": "Potassium sorbate is the potassium salt of sorbic acid, obtained synthetically by the reaction of sorbic acid and potassium hydroxide; it is widely approved and used throughout Europe as a safe preservative.",
+        "usage_cases": "It is widely used in industrial foods such as cheeses, pickled olives, sauces, packaged sweets, fruit juices and carbonated drinks, but it is also present in cosmetics such as creams, lotions and hair products thanks to its effectiveness against molds, yeasts and some bacteria.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 4,
+        "E_code": "E203",
+        "name": "Calcium sorbate",
+        "category": "Preservatives",
+        "description": "Calcium sorbate is the calcium salt of sorbic acid, produced synthetically by combining sorbic acid with calcium salts; it is authorised in Europe but its use is less widespread than that of other sorbates, although it remains safe and approved as a preservative.",
+        "usage_cases": "It is mainly used in foods such as baked goods, cheeses, packaged desserts and soft drinks to inhibit the growth of microorganisms, and is rarely but possible to find it in some cosmetics and pharmaceutical products.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 5,
+        "E_code": "E234",
+        "name": "Nisin",
+        "category": "Preservatives",
+        "description": "Nisin is a natural preservative produced by bacterial fermentation, derived from Lactococcus lactis, a lactic bacterium also present in dairy products; it is obtained through controlled fermentation processes and subsequent purification and is authorised in Europe, but only for specific food categories.",
+        "usage_cases": "It is mainly used in the food industry, particularly in aged cheeses, spreads, egg products and refrigerated ready-to-eat foods, due to its effectiveness against gram-positive and spore-forming bacteria, with no significant uses in cosmetics or other sectors.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 6,
+        "E_code": "E260",
+        "name": "Acetic acid",
+        "category": "Preservatives",
+        "description": "Acetic acid is a naturally occurring substance commonly found in vinegar, but is also produced synthetically through bacterial fermentation (from sugars with Acetobacter) or by chemical synthesis from methanol; it is fully authorised throughout Europe as a food additive.",
+        "usage_cases": "It is mainly used in foods as a preservative and acidifier in pickles, sauces, condiments, but also in beverages and baked goods, while in the non-food sector it is found in some cleaning and disinfecting products, with limited uses in cosmetics.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 7,
+        "E_code": "E261",
+        "name": "Potassium acetate",
+        "category": "Preservatives",
+        "description": "Potassium acetate is a salt of acetic acid obtained by chemical synthesis from the reaction between acetic acid and potassium hydroxide; it is authorised throughout Europe and considered safe as a food additive.",
+        "usage_cases": "It is mainly used in foods as an acidity regulator and preservative in processed products such as sausages, pre-cooked foods, sauces, salty snacks and baked goods, while it is not commonly used in cosmetics or other non-food sectors.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 8,
+        "E_code": "E262",
+        "name": "Sodium acetate/diacetate",
+        "category": "Preservatives",
+        "description": "Sodium acetate, available in plain form or as sodium diacetate, is a salt of acetic acid obtained by reaction between acetic acid and sodium bicarbonate or carbonate; it is a synthetic but safe additive and fully authorised throughout Europe.",
+        "usage_cases": "It is mainly used in the food industry as a preservative and acidity regulator, especially in baked goods, cured meats, snacks, crisps and ready-made sauces, while in the non-food sector it is sometimes present in detergents or as a buffer in pharmaceutical preparations, with very rare uses in cosmetics.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 9,
+        "E_code": "E263",
+        "name": "Calcium acetate",
+        "category": "Preservatives",
+        "description": "Calcium acetate is a calcium salt of acetic acid, obtained by chemical synthesis from the reaction between acetic acid and calcium hydroxide; it is authorised in Europe and used as a safe food additive.",
+        "usage_cases": "It is used primarily as a preservative and acidity regulator in foods such as cheese, preserves, baked goods, and sauces, as well as being used in some dietary supplements as a source of calcium. Its use is limited in other areas, with a few uses in cosmetics or pharmaceuticals.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 10,
+        "E_code": "E270",
+        "name": "Lactic acid",
+        "category": "Preservatives",
+        "description": "Lactic acid is an organic acid that can be of natural origin, produced by the fermentation of sugars by lactic acid bacteria (such as Lactobacillus), or synthetic through chemical processes; it is authorised and widely used throughout Europe as a food additive.",
+        "usage_cases": "It is mainly used in foods as a preservative, acidifier and pH regulator in dairy products, beverages, processed meats, baked goods and sweets, but it is also widely used in cosmetics and skin care products due to its moisturizing and exfoliating properties.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 11,
+        "E_code": "E280",
+        "name": "Propionic acid",
+        "category": "Preservatives",
+        "description": "Propionic acid is a short-chain fatty acid that can be produced both naturally, during bacterial fermentation, and synthetically, by the reaction between ethylene and hydrocyanic acid; it is approved and used throughout Europe as a preservative.",
+        "usage_cases": "It is mainly used in foods to prevent the growth of mold and fungi, in baked goods, cheeses, bread products and sauces, but it is also used in some cosmetic and pharmaceutical products for its antimicrobial and antifungal properties.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 12,
+        "E_code": "E281",
+        "name": "Sodium Propionate",
+        "category": "Preservatives",
+        "description": "Sodium propionate is the sodium salt of propionic acid, obtained by reaction between propionic acid and sodium hydroxide; it is an authorised and safe preservative throughout Europe.",
+        "usage_cases": "It is mainly used in foods as a preservative to prevent the growth of mold and bacteria, in baked goods, packaged sandwiches, cheeses, snacks and sweets, but it is also used in some cosmetics and pharmaceutical products for its antimicrobial properties.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 13,
+        "E_code": "E282",
+        "name": "Calcium Propionate",
+        "category": "Preservatives",
+        "description": "Calcium propionate is the calcium salt of propionic acid, obtained by chemical synthesis by combining propionic acid with calcium hydroxide; it is authorised throughout Europe as a food preservative.",
+        "usage_cases": "It is mainly used to prevent the growth of mold and bacteria in foods such as baked goods, packaged sandwiches, cheeses and other baked goods, but it also has limited applications in some cosmetic and pharmaceutical products for its antimicrobial properties.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 14,
+        "E_code": "E283",
+        "name": "Potassium Propionate",
+        "category": "Preservatives",
+        "description": "Potassium propionate is the potassium salt of propionic acid, obtained by reaction between propionic acid and potassium hydroxide; it is authorised throughout Europe as a food preservative.",
+        "usage_cases": "It is mainly used to prevent the growth of mold and yeast in foods such as cheese, packaged bread, baked goods, sauces and industrial desserts, but it also has limited applications in some cosmetics and pharmaceuticals for its antimicrobial properties.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 15,
+        "E_code": "E290",
+        "name": "Carbon dioxide",
+        "category": "Preservatives",
+        "description": "Carbon dioxide is a natural gas found in small quantities in the atmosphere and is produced industrially by combustion of organic materials or by fermentation of sugars; it is authorised and widely used throughout Europe as a food additive.",
+        "usage_cases": "It is mainly used in carbonated drinks, for effervescence, but also for food preservation, such as in vacuum packaging and baked goods, as well as being used in some cosmetic applications, especially as a propellant in aerosols.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 16,
+        "E_code": "E210",
+        "name": "Benzoic acid",
+        "category": "Preservatives",
+        "description": "Benzoic acid is an aromatic acid that can be found naturally in some plants and fruits, but is mainly produced synthetically from toluene; it is authorised throughout Europe as a food additive.",
+        "usage_cases": "It is mainly used as a preservative in foods and beverages to prevent the growth of bacteria, fungi and yeasts, and is present in products such as sauces, fruit juices, carbonated drinks, jams and packaged sweets. It is also used in cosmetics and pharmaceuticals for its antimicrobial properties and as a preservative.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 18,
+        "E_code": "E211",
+        "name": "Sodium benzoate",
+        "category": "Preservatives",
+        "description": "Sodium benzoate is the sodium salt of benzoic acid, obtained by chemical reaction between benzoic acid and sodium hydroxide; it is authorised throughout Europe as a food preservative.",
+        "usage_cases": "It is mainly used to prevent the growth of bacteria, yeasts and fungi in foods and beverages, such as fruit juices, soft drinks, sauces, jams and baked goods. It is also used in some cosmetics and pharmaceutical products for its antimicrobial and preservative properties.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 19,
+        "E_code": "E212",
+        "name": "Potassium Benzoate",
+        "category": "Preservatives",
+        "description": "Potassium benzoate is the potassium salt of benzoic acid, obtained by chemical reaction between benzoic acid and potassium hydroxide; it is authorised throughout Europe as a food preservative.",
+        "usage_cases": "It is mainly used to prevent the growth of bacteria, yeasts and fungi in foods and beverages, such as fruit juices, soft drinks, sauces, jams and preserves. It is also used in some cosmetics and pharmaceutical products due to its antimicrobial properties and as a preservative.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 20,
+        "E_code": "E213",
+        "name": "Calcium Benzoate",
+        "category": "Preservatives",
+        "description": "Calcium benzoate is the calcium salt of benzoic acid, obtained by chemical reaction between benzoic acid and calcium hydroxide; it is authorised throughout Europe as a food preservative.",
+        "usage_cases": "It is mainly used to prevent the growth of bacteria, yeasts and fungi in foods such as preserves, jams, sauces, fruit juices and carbonated drinks. Its use is limited in other sectors, with some applications in cosmetics and pharmaceuticals for its antimicrobial and preservative properties.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 21,
+        "E_code": "E214",
+        "name": "Ethyl p-hydroxybenzoate - Ethyl parahydroxybenzoate",
+        "category": "Preservatives",
+        "description": "Ethyl p-hydroxybenzoate, also known as ethyl parahydroxybenzoate, is an ester of para-hydroxybenzoic acid, obtained by chemical synthesis; it is authorised in almost all of Europe as a food preservative.",
+        "usage_cases": "It is mainly used to prevent the growth of bacteria and fungi in foods, such as beverages, sweets, ice cream, and baked goods. It is also used in cosmetics and skin care products, as a preservative in creams, lotions, and shampoos, due to its antimicrobial and antifungal properties.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 23,
+        "E_code": "E215",
+        "name": "Sodium ethyl-p-hydroxybenzoate (sodium salt)",
+        "category": "Preservatives",
+        "description": "Sodium ethyl p-hydroxybenzoate is the sodium salt of ethyl p-hydroxybenzoate, obtained by chemical synthesis by combining the ester with sodium hydroxide; it is an authorised preservative in Europe but with limited use due to more recent regulatory restrictions.",
+        "usage_cases": "It is mainly used in cosmetics, personal hygiene products and drugs (such as creams, syrups and eye drops), where it acts as an antimicrobial, while its use in food is now rare or absent in many European countries for precautionary reasons related to skin sensitization.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 24,
+        "E_code": "E216",
+        "name": "Propyl p-hydroxybenzoate - Propyl parahydroxybenzoate (Propybaraben)",
+        "category": "Preservatives",
+        "description": "Propyl p-hydroxybenzoate, also known as propyl parahydroxybenzoate or propylparaben, is an ester of p-hydroxybenzoic acid, obtained by chemical synthesis; it was previously authorised as a food preservative in Europe, but its use in foods is now banned or severely restricted in many European countries as a precaution.",
+        "usage_cases": "It is still widely used in cosmetics, personal hygiene products and drugs (such as creams, lotions, shampoos and liquid medicines) for its effective antimicrobial and antifungal properties.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 25,
+        "E_code": "E217",
+        "name": "Sodium propyl-p-hydroxybenzoate (Propy-14Hydroxybenzoate)",
+        "category": "Preservatives",
+        "description": "Sodium propyl-p-hydroxybenzoate is the sodium salt of propyl p-hydroxybenzoate, obtained by chemical synthesis by combining the related ester with sodium hydroxide; it has been used as a food preservative, but is currently banned or no longer authorised in foods in much of Europe due to possible allergic and sensitisation effects.",
+        "usage_cases": "However, it remains in use in cosmetics, personal hygiene products and some drugs, where it is used for its antimicrobial properties, particularly against mold and yeast.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 26,
+        "E_code": "E218",
+        "name": "methyl p-hydroxybenzoate - Methyl parahydroxybenzoate (Methylparaben)",
+        "category": "Preservatives",
+        "description": "Methyl p-hydroxybenzoate, also known as methyl parahydroxybenzoate or methylparaben, is a synthetically obtained ester of p-hydroxybenzoic acid; it is authorised in Europe but its use in food is now very limited or absent in several countries as a precaution.",
+        "usage_cases": "It is instead widely used in cosmetics, personal hygiene products (such as creams, shampoos, deodorants) and drugs, where it performs a preservative function thanks to its effectiveness against bacteria and fungi, even if it is the object of attention for possible endocrine effects in case of prolonged use.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 27,
+        "E_code": "E219",
+        "name": "Sodium methyl-p-hydroxybenzoate (Methy-14Hydroxybenzoate)",
+        "category": "Preservatives",
+        "description": "Sodium methyl p-hydroxybenzoate is the sodium salt of methyl p-hydroxybenzoate, obtained synthetically by combining the ester with sodium hydroxide; it has been authorised as a food preservative, but today its use in foods is banned or severely restricted in Europe for precautionary reasons related to potential allergenic effects and endocrine disruption.",
+        "usage_cases": "It is still used in cosmetics, personal hygiene products and medicines (such as syrups, eye drops and creams) thanks to its antimicrobial and antifungal properties, especially against mold and yeast.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 28,
+        "E_code": "E220",
+        "name": "Sulfur dioxide",
+        "category": "Preservatives",
+        "description": "Sulphur dioxide is a colourless gas of partly natural origin but produced industrially by burning sulphur or sulphur-containing minerals; it is authorised throughout Europe as a food additive.",
+        "usage_cases": "It is mainly used as a preservative and antioxidant in foods and beverages such as wine, fruit juices, dried fruit, vegetable preserves and vinegars, where it prevents oxidation and microbial growth. It also has industrial and technical uses, but can cause reactions in sensitive individuals, such as asthmatics, and is subject to well-regulated quantity limits.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 29,
+        "E_code": "E221",
+        "name": "Sodium Sulfite",
+        "category": "Preservatives",
+        "description": "Sodium sulphite, also known as sodium sulphite, is a salt of sulphur dioxide obtained synthetically by reaction between sulphur dioxide and sodium hydroxide; it is authorised in Europe as a food additive.",
+        "usage_cases": "It is mainly used as a preservative and antioxidant in foods such as nuts, wine, juices, shellfish, and pre-cooked potatoes, where it prevents oxidation and discoloration, as well as inhibiting microbial growth. It is also used in some cosmetics and pharmaceuticals, but can cause allergic reactions in sensitive individuals, particularly asthmatics.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 30,
+        "E_code": "E222",
+        "name": "Sodium bisulfite",
+        "category": "Preservatives",
+        "description": "Sodium bisulphite is an acid salt derived from sulphur dioxide, obtained synthetically by the reaction between sulphur dioxide and a dilute solution of sodium hydroxide; it is authorised throughout Europe as a food additive.",
+        "usage_cases": "It is mainly used as a preservative and antioxidant in foods such as nuts, beverages (especially wine and beer), peeled potatoes, shellfish and baked goods, where it prevents oxidation and microbial growth. It also has applications in cosmetics and drugs, but can cause adverse reactions in those sensitive to sulfites.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 31,
+        "E_code": "E223",
+        "name": "Sodium Metabisulfite",
+        "category": "Preservatives",
+        "description": "Sodium metabisulfite is a salt derived from sulphur dioxide, produced synthetically by combining sulphur dioxide and sodium carbonate; it is authorised throughout Europe as a food preservative and antioxidant.",
+        "usage_cases": "It is widely used in foods such as wine, beer, nuts, shellfish, juices, pre-cooked potatoes and baked goods to prevent oxidation, whiten and inhibit microbial growth. It is also used in cosmetics, detergents and drugs. It can cause allergic reactions, especially in asthmatics, and is subject to strict concentration limits.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 32,
+        "E_code": "E224",
+        "name": "Potassium Metabisulfite",
+        "category": "Preservatives",
+        "description": "Potassium metabisulfite (E224) is a salt of sulphur dioxide obtained synthetically from the reaction between sulphur dioxide and potassium carbonate; it is authorised throughout Europe as a preservative and antioxidant.",
+        "usage_cases": "It is mainly used in the production of wine and beer to inhibit yeasts and bacteria, stabilize color and prevent oxidation, as well as in fruit juices, dried fruit, vegetable preserves and baked goods. It also has technical applications (for example in the sterilization of winemaking equipment). Like other sulphites, it can cause reactions in sensitive individuals and its use is regulated by precise limits.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 33,
+        "E_code": "E225",
+        "name": "Calcium Metabisulfite",
+        "category": "Preservatives",
+        "description": "Calcium metabisulfite is a salt of sulphur dioxide obtained synthetically from the reaction between sulphur dioxide and calcium carbonate; it is authorised throughout Europe as a food preservative and antioxidant.",
+        "usage_cases": "It is used primarily in food products such as nuts, pre-cooked potatoes, fruit juices, wine, and beer to prevent oxidation, inhibit bacterial growth, and preserve the color of foods. It also has uses in some industrial applications, such as fabric processing and water treatment. Like other sulfites, it can cause allergic reactions in sensitive individuals.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 34,
+        "E_code": "E226",
+        "name": "Calcium sulphite",
+        "category": "Preservatives",
+        "description": "Calcium sulphite is a salt derived from sulphur dioxide, produced synthetically by reaction between sulphur dioxide and calcium hydroxide; it is authorised in almost all of Europe as a food preservative and antioxidant.",
+        "usage_cases": "It is mainly used in foods such as dried fruit, pre-cooked potatoes, preserves, fruit juices, wine and beer to prevent oxidation, prevent bacterial growth and maintain the color of foods. It is also used in some industrial applications and in the processing of materials. Like other sulfites, it can cause adverse reactions in sensitive individuals, especially asthmatics.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 35,
+        "E_code": "E227",
+        "name": "Calcium bisulfite",
+        "category": "Preservatives",
+        "description": "Calcium bisulphite is an acid salt derived from sulphur dioxide, produced synthetically by reaction between sulphur dioxide and calcium hydroxide; it is authorised in almost all of Europe as a food preservative.",
+        "usage_cases": "It is mainly used to preserve dried fruit, pre-cooked potatoes, fruit preserves, juices and wines, thanks to its antioxidant and antimicrobial properties that prevent oxidation and the proliferation of bacteria and yeasts. Like other sulphites, it can cause allergic reactions in sensitive individuals and its use is regulated by precise limits to avoid side effects.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 36,
+        "E_code": "E228",
+        "name": "Potassium sulphite acid",
+        "category": "Preservatives",
+        "description": "Potassium hydrogen sulphite is an acid salt derived from sulphur dioxide, produced synthetically through the reaction between sulphur dioxide and potassium carbonate; it is authorised in almost all of Europe as a food additive.",
+        "usage_cases": "It is mainly used as a preservative and antioxidant in foods such as fruit juices, wine, beer, dried fruit and pre-cooked potatoes, where it acts as a preventative against oxidation, spoilage and microbial growth. It is also used in some industrial applications. Like other sulphites, it can cause allergic reactions in sensitive individuals, especially among asthmatics.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 37,
+        "E_code": "E230",
+        "name": "Diphenyl - Biphenyl",
+        "category": "Preservatives",
+        "description": "Diphenyl, also known as biphenyl, is a synthetically obtained aromatic organic compound used mainly as a fungicide and food preservative, authorised in some areas of Europe, although its use is very limited.",
+        "usage_cases": "It is mainly used in the treatment of fruits such as citrus fruits (e.g. oranges) to prevent mold growth during storage. It is also used in some industrial applications, such as in thermal fluids. However, the use of biphenyl in foods has been restricted in many jurisdictions due to concerns about its safety and potential toxic effects if consumed in high quantities.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 38,
+        "E_code": "E231",
+        "name": "Orthophenyl phenol",
+        "category": "Preservatives",
+        "description": "Orthophenyl phenol is a chemical compound used as a fungicide and preservative, obtained synthetically; it is authorised in Europe as a food additive, but its use is limited to certain products and areas.",
+        "usage_cases": "It is mainly used to treat the surface of fruits and vegetables, such as citrus fruits, to prevent the growth of fungi and mold during storage and transportation. Orthophenyl phenol is known for its antimicrobial action, but its application in foods is regulated and must comply with strict concentration limits due to possible toxic and sensitization effects.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 39,
+        "E_code": "E232",
+        "name": "Sodium orthophenylphenate - Sodium orthophenylphenol",
+        "category": "Preservatives",
+        "description": "Sodium orthophenyl phenate, also known as sodium orthophenylphenol, is the sodium salt of orthophenyl phenol, obtained synthetically through the reaction between orthophenyl phenol and sodium hydroxide; it is authorised in Europe as a food preservative, but its use is restricted.",
+        "usage_cases": "It is used primarily as a fungicide on the surfaces of citrus and other fruits to prevent the growth of mold and mildew during storage and transportation. Like its analogue, orthophenyl phenol, it is subject to strict regulations because it can cause irritation and other adverse effects if overexposed.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 40,
+        "E_code": "E233",
+        "name": "Thiabendazole",
+        "category": "Preservatives",
+        "description": "Thiabendazole is a synthetic fungicide belonging to the class of benzothiazoles, mainly used for the treatment of fruits and vegetables, such as citrus fruits and apples, in order to prevent the growth of mold and fungi during storage and transportation. It is authorized in Europe as a food additive, but its use is regulated and limited.",
+        "usage_cases": "Thiabendazole works by interfering with the synthesis of fungi, preventing them from growing, and is generally used in combination with other preservatives to ensure product quality. Although considered safe in regulated quantities, it can cause adverse effects with prolonged exposure or in high doses.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 41,
+        "E_code": "E235",
+        "name": "Natamycin",
+        "category": "Preservatives",
+        "description": "Natamycin is a natural antimicrobial produced by fermentation of a microorganism of the genus Streptomyces. It is authorised in Europe as a food additive and is mainly used to prevent the growth of moulds and yeasts in various food products, such as cheese, cured meats and baked goods.",
+        "usage_cases": "Natamycin is very effective against fungi and is applied both to the surface of foods and mixed into ingredients, but it is not absorbed by the human body, so it is considered safe. It is also used in pharmaceutical applications, such as in drugs against fungal infections.",
+        "is_class": true,
+        "classification": {
+          "classified": 2
+        }
+      },
+      {
+        "id": 42,
+        "E_code": "E236",
+        "name": "Formic acid",
+        "category": "Preservatives",
+        "description": "Formic acid is a simple organic acid that occurs naturally in some plants and in insects, such as ants, from which it gets its name. It can be produced synthetically by reacting methanol with carbon monoxide. It may not be authorised in Europe or only partially. See the EFSA website for up-to-date details.",
+        "usage_cases": "It is used as a food additive and is mainly used as a preservative and antimicrobial agent, especially in food products such as cheese, meat, and for the treatment of animal feed. Formic acid is also used in industrial sectors, such as leather treatment and the production of some chemicals. Although effective as a preservative, it is corrosive and must be used with caution, especially in high concentrations.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 43,
+        "E_code": "E237",
+        "name": "Sodium formate",
+        "category": "Preservatives",
+        "description": "Sodium formate is the sodium salt of formic acid, obtained synthetically through the reaction between formic acid and sodium hydroxide. It may not be authorised in Europe or only partially. See the EFSA website for up-to-date details.",
+        "usage_cases": "It is used as a food additive and is mainly used as a preservative and antimicrobial, especially to preserve foods such as meat, cheese and fish. Sodium formate is also used in the chemical industry and in the production of some cosmetic and pharmaceutical products. Although effective in controlling bacteria and fungi, it must be used with caution, as it can cause irritation in high concentrations.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 44,
+        "E_code": "E238",
+        "name": "Calcium formate",
+        "category": "Preservatives",
+        "description": "Calcium formate is the calcium salt of formic acid, obtained synthetically by reaction between formic acid and calcium hydroxide. See the EFSA website for up-to-date details.",
+        "usage_cases": "It is used as a food additive and is mainly used as a preservative and antimicrobial, especially for the preservation of foods such as meat, fish and dairy products. Calcium formate is also used in some industrial applications, such as the preservation of animal feed and the production of building materials. Although effective in preventing the growth of bacteria and fungi, the use of this compound is regulated to avoid possible irritant and toxic effects in case of excessive concentrations.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 45,
+        "E_code": "E239",
+        "name": "Hexamethylene tetramine",
+        "category": "Preservatives",
+        "description": "Hexamethylene tetramine, also known as hexamethylene, is a synthetically obtained organic compound, resulting from the condensation of formaldehyde with ammonia. It is authorised in Europe as a food preservative, although its use is rather limited.",
+        "usage_cases": "It is used primarily as an antimicrobial agent to prevent the growth of bacteria and mold in certain foods, such as cheese and meat products. Hexamethylene tetramine is also used in industrial applications, such as the production of resins, plastics, and pharmaceuticals. Its presence in foods is subject to strict restrictions, as it can release formaldehyde, a substance considered potentially carcinogenic in high concentrations.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 46,
+        "E_code": "E240",
+        "name": "Boric acid (formaldehyde)",
+        "category": "Preservatives",
+        "description": "Formaldehyde is a volatile organic compound used as a preservative and antimicrobial agent in some food and industrial applications, although its use is very limited due to health risks. In the past, formaldehyde was used to preserve some foods, such as pickles and fermented products, but direct use has been progressively reduced in Europe, as it is classified as a carcinogen and toxic substance.",
+        "usage_cases": "Although it has been largely replaced by less dangerous preservatives, formaldehyde can still be present in trace amounts in food products treated with other chemicals such as paraformaldehyde. Because of its potential toxicity, the use of formaldehyde in foods is strictly regulated and monitored.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 47,
+        "E_code": "E242",
+        "name": "Dimethyldicarbonate",
+        "category": "Preservatives",
+        "description": "Dimethyl dicarbonate is a synthetic chemical compound used as a food preservative, known primarily for its antimicrobial properties. Although it is effective in preserving the quality and shelf life of food products, its use is regulated in Europe due to the potential risks associated with exposure to methanol, which can be toxic in high concentrations.",
+        "usage_cases": "It is used to prevent the growth of yeasts, bacteria, and molds, especially in alcoholic beverages such as wine and beer, but also in fruit juices and other liquid foods. Dimethyl dicarbonate works by releasing carbon dioxide and methanol, substances that help inhibit microbial growth.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 48,
+        "E_code": "E249",
+        "name": "Potassium nitrite",
+        "category": "Preservatives",
+        "description": "Potassium nitrite is a chemical compound used primarily as a preservative and colorant in food products. Although it is effective as a preservative, the use of potassium nitrite is regulated in Europe due to the formation of carcinogenic compounds, such as nitrosamines, when exposed to high temperatures. For this reason, its concentration in food is severely limited.",
+        "usage_cases": "It is used to prevent the growth of pathogenic bacteria (especially in meat or cured meats), such as Clostridium botulinum, which can cause botulism, and to maintain the typical red color of some cured meats and meats. Potassium nitrite is often used in combination with potassium nitrate (E252) to obtain a synergistic effect in preservation.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 49,
+        "E_code": "E250",
+        "name": "Sodium nitrite (NaNO2)",
+        "category": "Preservatives",
+        "description": "Sodium nitrite is a chemical compound widely used as a preservative and colouring agent in meat products, such as cured meats, hams, bacon and sausages. However, the use of sodium nitrite is strictly regulated in Europe, as at high temperatures it can react with amines in food to form nitrosamines, compounds known to be carcinogenic. For this reason, the amount of sodium nitrite in food is strictly monitored and limited.",
+        "usage_cases": "Its main role is to prevent the growth of pathogenic bacteria, particularly Clostridium botulinum, which can cause botulism, and at the same time maintain the characteristic red color of the treated meat. Sodium nitrite is also responsible for the characteristic flavor of many cured meat products.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 50,
+        "E_code": "E251",
+        "name": "Sodium nitrate",
+        "category": "Preservatives",
+        "description": "Sodium nitrate is a preservative of mineral origin, obtained mainly from natural deposits or chemically synthesized. Once ingested, it can transform into sodium nitrite inside the body or during the maturation of foods, thus performing an action similar to that of nitrites. Its use is authorized in Europe, but strictly regulated to limit the formation of nitrosamines, potentially carcinogenic compounds that can develop in particular conditions such as high temperatures.",
+        "usage_cases": "Used mainly in cured meat products such as salami, hams and bacon. Its main function is to inhibit the growth of harmful bacteria, including Clostridium botulinum, and to prolong the shelf life of foods.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 51,
+        "E_code": "E252",
+        "name": "Potassium nitrate",
+        "category": "Preservatives",
+        "description": "Potassium nitrate, also known as saltpetre, is a preservative of natural or synthetic origin. In foods, it can slowly transform into nitrite, prolonging the preservative effect. E252 is authorized in Europe, but its use is regulated by strict limits due to the risk of formation of nitrosamines, potentially carcinogenic compounds, especially if foods are cooked at high temperatures.",
+        "usage_cases": "Mainly used in cured meat products, such as raw hams, salamis and bacon. It is used to inhibit the growth of pathogenic bacteria, in particular Clostridium botulinum, and to promote color stability and preservation over time.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 52,
+        "E_code": "E264",
+        "name": "Ammonium acetate",
+        "category": "Preservatives",
+        "description": "Ammonium acetate is a synthetic ammonium and acetic acid salt. It is soluble in water and is chemically obtained from the reaction between ammonia and acetic acid. Its use in food is uncommon and limited, but it is authorized in some European countries. In addition to the food sector, it can also be used in the technical and pharmaceutical fields as a reagent or stabilizer.",
+        "usage_cases": "Used as an acidity regulator and preservative in some industrial foods. Its main function is to lower the pH to inhibit microbial growth and extend the shelf life of products.",
+        "is_class": true,
+        "classification": {
+          "classified": 3
+        }
+      },
+      {
+        "id": 53,
+        "E_code": "E284",
+        "name": "Boric acid",
+        "category": "Preservatives",
+        "description": "Boric acid is a mineral compound derived from boron, obtained mainly from natural borates such as borax, through a reaction process with strong acids. It has antiseptic, antifungal and insecticidal properties.",
+        "usage_cases": "It has been used in the past as a preservative in foods (especially caviar and seafood), but today its use in food is prohibited throughout the European Union for safety reasons, as it can accumulate in the body and cause toxic effects on the liver, kidneys and reproductive system. It is currently permitted only in non-food areas, such as cosmetics (in creams, eye drops, antifungal powders) and in some pharmaceutical and industrial products.",
+        "is_class": true,
+        "classification": {
+          "classified": 2
+        }
+      },
+      {
+        "id": 54,
+        "E_code": "E285",
+        "name": "Borax, Sodium Tetraborate - Sodium Tetraborate",
+        "category": "Preservatives",
+        "description": "Borax, or sodium tetraborate (E285), is a sodium salt of boric acid, of mineral origin, obtained by refining natural deposits or by chemical synthesis. However, the use of borax in food is prohibited throughout the European Union, as it can accumulate in the body and cause long-term toxic effects, especially on the reproductive system and metabolism.",
+        "usage_cases": "It has been used in the past as a food preservative due to its antibacterial and antifungal properties, especially in products such as caviar and seafood. It is currently used only in non-food areas, such as in the production of detergents, nail polishes, cosmetics, specialty glass and as a reagent in chemical laboratories.",
+        "is_class": true,
+        "classification": {
+          "classified": 2
+        }
+      },
+      {
+        "id": 55,
+        "E_code": "E100",
+        "name": "Curcumin",
+        "category": "Dyes",
+        "description": "Curcumin is a natural colorant extracted from the root of Curcuma longa, a tropical plant native to Asia, obtained by drying and grinding or by extraction with solvents. It is responsible for the typical intense yellow color of turmeric.",
+        "usage_cases": "It is used as a food colouring in products such as mustard, cheese, butter, snacks, soft drinks and ready meals. In addition to its food use, it is also used in cosmetics and supplements for its antioxidant and anti-inflammatory properties. E100 is authorised throughout the European Union and considered safe within established limits.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 56,
+        "E_code": "E101",
+        "name": "Riboflavin - Lactoflavin (Vitamin B2)",
+        "category": "Dyes",
+        "description": "Riboflavin, also known as lactoflavin or vitamin B2, is a natural colorant and nutrient belonging to the group of water-soluble B-complex vitamins, extracted mainly from natural sources such as eggs, milk, green leafy vegetables or produced synthetically through bacterial fermentation. Its use is authorized and widespread throughout the European Union, where it is considered safe and beneficial for health, as it contributes to energy metabolism and the maintenance of skin, mucous membranes and vision.",
+        "usage_cases": "It is used as a yellow colorant in foods such as breakfast cereals, cheeses, energy drinks, baked goods, and baby foods. It is also used as a vitamin supplement and in cosmetics.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 57,
+        "E_code": "E120",
+        "name": "Cochineal (carminic acid)",
+        "category": "Dyes",
+        "description": "Cochineal, or carminic acid, is a natural colorant of animal origin obtained from the dried female of the insect Dactylopius coccus, native to South America, through the extraction of carminic acid and subsequent purification. Its use is authorized in the European Union, but must be clearly indicated on the label since it is not suitable for vegans, vegetarians and some religious denominations. It is considered safe, although in rare cases it can cause allergic reactions.",
+        "usage_cases": "This deep red pigment is mainly used in foods such as fruit yogurt, candies, confetti, liqueurs, red drinks and also in cosmetics such as lipsticks and eye shadows.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 58,
+        "E_code": "E140",
+        "name": "Chlorophyll",
+        "category": "Dyes",
+        "description": "Chlorophyll (E140) is a natural green colorant, extracted mainly from green plants (such as alfalfa, nettles and spinach) through drying and solvent extraction processes. It is composed of pigments that carry out photosynthesis in plants. It is authorised throughout the European Union, generally considered safe, although its stability to light and heat is limited, which is why the more stable version, chlorophyllin (E141), is sometimes used.",
+        "usage_cases": "It is used as a food coloring in products such as ice cream, chewing gum, sauces, flavored oils, beverages and even in natural cosmetics and toothpastes.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 59,
+        "E_code": "E150A",
+        "name": "Caramel",
+        "category": "Dyes",
+        "description": "(Plain caramel): Obtained by simply cooking sugar, without adding any other chemical ingredients.",
+        "usage_cases": "It is mainly used in beverages such as cola, beer, and in baked goods and sweets.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 60,
+        "E_code": "E150B",
+        "name": "Caramel",
+        "category": "Dyes",
+        "description": "(Caustic soda caramel): Produced by adding sodium hydroxide or sodium carbonate during the cooking process.",
+        "usage_cases": "It is mainly used to add color to dark drinks such as cola.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 61,
+        "E_code": "E150C",
+        "name": "Caramel",
+        "category": "Dyes",
+        "description": "Ammonia-soda caramel): Obtained using ammonia and sodium carbonate.",
+        "usage_cases": "It is mainly used to color confectionery products and beverages, such as liqueurs and some soft drinks.",
+        "is_class": true,
+        "classification": {
+          "classified": 2
+        }
+      },
+      {
+        "id": 62,
+        "E_code": "E150D",
+        "name": "Caramel",
+        "category": "Dyes",
+        "description": "(Sulphite-ammonia-soda caramel): Made with ammonia and sodium sulphite.",
+        "usage_cases": "It is mainly used in packaged products such as sweets, snacks and soft drinks, as it gives a dark brown color.",
+        "is_class": true,
+        "classification": {
+          "classified": 2
+        }
+      },
+      {
+        "id": 63,
+        "E_code": "E150",
+        "name": "Caramel",
+        "category": "Dyes",
+        "description": "Caramel (E150) is a natural food coloring obtained by cooking sugars (sucrose, glucose or fructose) at high temperatures, which causes a Maillard reaction, producing different types of caramel depending on the preparation conditions. Caramel E150 is divided into four categories (A, B, C and D), which vary according to the production method and the ingredients used. Caramel E150 is authorised and widely used in the European Union, and is considered safe based on food safety studies. However, some forms, particularly E150c and E150d, may contain traces of chemicals such as acrylamide, which has been the subject of concern for its potential carcinogenic effects at very high levels.",
+        "usage_cases": "See corresponding pages for: E150A, E150B, E150C and E150D.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 64,
+        "E_code": "E160",
+        "name": "Beta-carotene (provitamin A)",
+        "category": "Dyes",
+        "description": "Beta-carotene is a natural reddish-orange colorant belonging to the carotenoid family and is the main source of provitamin A, which the body can convert into vitamin A as needed. It is extracted from plant sources such as carrots, algae, sweet potatoes, pumpkins and palm oil, or it can be produced synthetically or through microbial fermentation. It is authorized throughout the European Union, considered safe and with antioxidant properties, also useful for the health of the skin, eyesight and immune system.",
+        "usage_cases": "It is used as a colorant in foods (drinks, margarines, cheeses, baked goods, sweets) and also in cosmetics and nutritional supplements.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 65,
+        "E_code": "E160A",
+        "name": "Alpha, beta gamma carotene",
+        "category": "Dyes",
+        "description": "Alpha, beta and gamma carotenes are natural colorants belonging to the carotenoid family. They are extracted from plant sources (carrots, corn, sweet potatoes, palm oil, algae) or produced synthetically. Beta-carotene is the most active as provitamin A, while alpha-carotene and gamma-carotene have less vitamin activity. Their use is authorized throughout the European Union and considered safe, with antioxidant and protective effects for the skin and eyesight.",
+        "usage_cases": "They are mainly used in foods (drinks, margarine, baked goods, sweets, desserts), food supplements and cosmetics (creams, lipsticks).",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 66,
+        "E_code": "E60B",
+        "name": "Annatto",
+        "category": "Dyes",
+        "description": "Annatto is a natural yellow-orange colorant, extracted from the seeds of the tropical plant Bixa orellana, by drying and grinding or by oily/aqueous extraction. The main pigments are bixin (soluble in fats) and norbixin (soluble in water). Its use is authorized throughout the European Union and considered safe, although in rare cases it can cause allergic reactions in sensitive individuals.",
+        "usage_cases": "It is used as a colorant in foods such as cheese (e.g. cheddar), butter, margarine, snacks, sweets, sauces and drinks, and to a lesser extent also in cosmetics and pharmaceutical products.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 67,
+        "E_code": "E160C",
+        "name": "Capsanthin (Capsanthina)",
+        "category": "Dyes",
+        "description": "Capsanthin is a natural deep red colorant belonging to the carotenoid family, extracted from sweet or hot red chili pepper (Capsicum annuum), by drying and subsequent extraction with solvents. It is often accompanied by capsorubin and other similar pigments. It is authorized in the European Union, considered safe, even if it can be subject to concentration limitations in different food products.",
+        "usage_cases": "Capsanthin is mainly used in foods such as cured meats, sauces, snacks, cheeses and margarine, to intensify the red/orange color, and more rarely in cosmetics.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 68,
+        "E_code": "E160D",
+        "name": "Lycopene",
+        "category": "Dyes",
+        "description": "Lycopene is a natural colorant of intense red color, belonging to the carotenoid family, extracted mainly from ripe tomatoes, but also from other red fruits (watermelon, pink grapefruit) or obtained by microbial fermentation or chemical synthesis. It has no provitamin A activity but is known for its strong antioxidant power. It is authorized throughout the European Union and is considered safe for human consumption.",
+        "usage_cases": "It is used in foods such as sauces, soups, snacks, margarine, baked goods, and beverages, as well as in some cosmetics and nutritional supplements.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 69,
+        "E_code": "E160E",
+        "name": "Beta-apo-8-carotenal",
+        "category": "Dyes",
+        "description": "Beta-apo-8-carotenal is a reddish-orange synthetic carotenoid colorant, structurally similar to beta-carotene, but without significant provitamin A activity. It is produced chemically from natural carotenes or synthetic derivatives through controlled oxidation processes. Its use is authorized in Europe, but with specific concentration limits depending on the food category. It is considered safe, although less common than other natural carotenoids.",
+        "usage_cases": "It is mainly used in foods (soft drinks, margarines, sweets, desserts, snacks) and sometimes in cosmetics and supplements.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 70,
+        "E_code": "E160F",
+        "name": "Ethyl ester of beta-apo-8-car",
+        "category": "Dyes",
+        "description": "Beta-apo-8’-carotenal ethyl ester is a synthetic orange colorant, derived from beta-apo-8’-carotenal, obtained by esterification with ethanol. It is part of the carotenoid family and is produced by controlled chemical synthesis. It does not have significant provitamin A activity. Its use is authorized in Europe with precise limits of use based on the food category, and it is considered safe for human consumption.",
+        "usage_cases": "It is mainly used in foods such as soft drinks, margarines, snacks, desserts and baked goods to give a warm and intense color.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 71,
+        "E_code": "E161B",
+        "name": "Lutein",
+        "category": "Dyes",
+        "description": "Lutein is a natural yellow colorant belonging to the carotenoid family, mainly extracted from the petals of the Marigold flower (Tagetes erecta) by drying and subsequent extraction with solvents. It is also naturally present in spinach, corn and other green leafy vegetables. It can also be obtained by microbial fermentation. Its use is authorized in the European Union, but only for limited uses, and is considered safe, also known for its benefits for eye health (macula and retina).",
+        "usage_cases": "It is used in foods such as margarine, baked goods, cereals, snacks, beverages, and supplements, as well as in some cosmetics.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 72,
+        "E_code": "E161C",
+        "name": "Cryptoxanthine",
+        "category": "Dyes",
+        "description": "Cryptoxanthin is a natural orange colorant belonging to the carotenoid family, present in fruits such as papaya, mandarins, blood oranges and corn. It also has provitamin A activity, although lower than beta-carotene. It can be extracted from plant sources or obtained synthetically. It is not widely used industrially compared to other carotenoids. E161c is not currently authorized as a food additive in the European Union, therefore it is not legally usable in food products distributed on the European market.",
+        "usage_cases": "It is used to a limited extent in foods (margarines, baked goods, beverages) and nutritional supplements.",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      },
+      {
+        "id": 64,
+        "E_code": "",
+        "name": "",
+        "category": "Dyes",
+        "description": "",
+        "usage_cases": "",
+        "is_class": true,
+        "classification": {
+          "classified": 1
+        }
+      } 
+  ]
+  
