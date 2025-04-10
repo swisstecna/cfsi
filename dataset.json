@@ -838,18 +838,7 @@
         "classification": {
           "classified": 1
         }
-      },
-      {
-        "id": 64,
-        "E_code": "",
-        "name": "",
-        "category": "Dyes",
-        "description": "",
-        "usage_cases": "",
-        "is_class": true,
-        "classification": {
-          "classified": 1
-        }
+      }
       } 
   ]
   
